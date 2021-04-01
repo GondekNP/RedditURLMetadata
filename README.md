@@ -1,6 +1,6 @@
 ## Subreddit Analysis Project
 
-# Outline
+### Outline
 
 The online social network and link-sharing community Reddit has been lauded for their approach to content moderation on their platform – in response to toxic or borderline illegal behavior occurring within individual groups on Reddit (known as subreddits), instead of outwardly banning the users themselves, they require
 users to be logged in and explicitly opt into viewing ‘shocking or highly off ensive content’. This design friction has led to a substantial decrease in new users for [at least two notable quarantined subreddits](https://arxiv.org/abs/2009.11483) (‘The_Donald’, devoted to Donald Trump, and ‘TheRedPill’, focused on broadly anti-feminist rhetoric).
@@ -21,7 +21,7 @@ While quarantines appear eff ective at reducing recruitment to radicalized commu
 curious about whether we could observe a decrease in the frequency of URLs from quarantined 
 subreddits being found on ‘adjacent’ non-quarantined subreddits after the quarantine was enacted. 
 
-# Files
+### Files
 
 ![pipeline](img/pipeline.png)
 
