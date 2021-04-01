@@ -22,6 +22,9 @@ curious about whether we could observe a decrease in the frequency of URLs from 
 subreddits being found on ‘adjacent’ non-quarantined subreddits after the quarantine was enacted. 
 
 #Files
+
+![pipeline](img/pipeline.png)
+
 - analyze_hosts.py  - code to analyze hosting data
 - analyze_spread.py - code to analyze spread to other 
 - combine.py - reads scrape sql dbs and writes to analysis.db
@@ -33,5 +36,3 @@ subreddits being found on ‘adjacent’ non-quarantined subreddits after the qu
 - output/ - output directory used to store visualizations from analysis
 - scraper.py - file that scrapes from Reddit's API
 - url_tools.py - file that cleans URLs, uses NsLookup to get IPs, and checks against the WhoIs API
-
-![pipeline](img/pipeline.png)
